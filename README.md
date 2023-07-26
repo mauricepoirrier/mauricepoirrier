@@ -1,8 +1,8 @@
 ### Hi there 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/mauricepoirrier?color=%231DA1F2&label=MauricePoirrier&logo=Twitter&style=for-the-badge)](https://twitter.com/mauricepoirrier)
 - 🔭 I’m currently working on Bitcoin, Lightning Network and candle making
-- 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on Bitcoin FOSS
+- 🌱 I’m currently learning Dart
+- 👯 I’m looking to collaborate on Bitcoin / AI FOSS
 - 📫 How to reach me: Twitter
 
 ![MauricePoirrier's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauricepoirrier&show_icons=true&theme=highcontrast)
